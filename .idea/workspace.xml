@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d83eaba-dbdc-4a90-bf90-093d0a57e27d" name="Changes" comment="FIRST COMMIT">
-      <change afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primeCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Application.fabonacciSeries.executor": "Run",
     "Application.hellojava.executor": "Run",
     "Application.palindrome.executor": "Run",
+    "Application.primeCheck.executor": "Run",
     "Application.reverseString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724588560322</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="FIRST COMMIT">
+      <option name="closed" value="true" />
+      <created>1724590493006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724590493006</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
